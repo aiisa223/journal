@@ -1,0 +1,77 @@
+﻿This document was exported from the paperMoney® platform which provides a simulated trading environment. All data contained herein is for educational and entertainment purposes only. TD Ameritrade its subsidiaries and/or affiliates are not responsible for the accuracy of any of these exported data.
+
+Account Statement for D-68705401 (margin) since 2/26/25 through 2/26/25
+
+Cash Balance
+DATE,TIME,TYPE,REF #,DESCRIPTION,Misc Fees,Commissions & Fees,AMOUNT,BALANCE
+2/26/25,01:00:00,BAL,,Cash balance at the start of business day 26.02 CST,,,,"63,231.98"
+2/26/25,11:26:15,TRD,5141348126,tIP BOT +50 NLY @21.99,,,"-1,099.50","62,132.48"
+2/26/25,12:19:36,TRD,5141422615,tIP SOLD -50 NLY @22.01,-0.02,,"1,100.50","63,232.96"
+2/26/25,14:57:46,TRD,5141603722,tIP BOT +10 GOOGL 100 (Weeklys) 7 MAR 25 170 PUT @2.69,-0.06,-6.50,"-2,690.00","60,536.40"
+2/26/25,15:04:32,TRD,5141608740,tIP SOLD -10 GOOGL 100 (Weeklys) 7 MAR 25 170 PUT @2.75,-0.11,-6.50,"2,750.00","63,279.79"
+,,,,TOTAL,($0.19),($13.00),$61.00,"$63,279.79"
+
+Futures Statements
+Trade Date,Exec Date,Exec Time,Type,Ref #,Description,Misc Fees,Commissions & Fees,Amount,Balance
+
+Forex Statements
+,Date,Time,Type,Ref #,Description,Commissions & Fees,Amount,Amount(USD),Balance
+,2/26/25,01:00:00,BAL,--,Cash balance at the start of the business day 26.02 CST.,--,--,--,"$10,000.00"
+
+ 
+"Total Cash $63,279.79"
+
+
+Account Order History
+Notes,,Time Placed,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,PRICE,,TIF,Status
+,,2/26/25 15:01:22,SINGLE,SELL,-10,TO CLOSE,GOOGL,7 MAR 25,170,PUT,2.73,LMT,DAY,FILLED
+,,2/26/25 14:57:39,SINGLE,BUY,+10,TO OPEN,GOOGL,7 MAR 25,170,PUT,~,MKT,DAY,FILLED
+,,2/26/25 12:19:33,STOCK,SELL,-50,TO CLOSE,NLY,,,STOCK,~,MKT,DAY,FILLED
+,,2/26/25 11:26:14,STOCK,BUY,+50,TO OPEN,NLY,,,STOCK,~,MKT,DAY,FILLED
+
+Account Trade History
+,Exec Time,Spread,Side,Qty,Pos Effect,Symbol,Exp,Strike,Type,Price,Net Price,Order Type
+,2/26/25 15:04:32,SINGLE,SELL,-10,TO CLOSE,GOOGL,7 MAR 25,170,PUT,2.75,2.75,LMT
+,2/26/25 14:57:46,SINGLE,BUY,+10,TO OPEN,GOOGL,7 MAR 25,170,PUT,2.69,2.69,MKT
+,2/26/25 12:19:36,STOCK,SELL,-50,TO CLOSE,NLY,,,STOCK,22.01,22.01,MKT
+,2/26/25 11:26:15,STOCK,BUY,+50,TO OPEN,NLY,,,STOCK,21.99,21.99,MKT
+
+Profits and Losses
+Symbol,Description,P/L Open,P/L %,P/L Day,P/L YTD,P/L Diff,Mark Value
+AAPL,APPLE INC,$0.00,0.00%,$0.00,$0.00,$0.00,$0.00
+ADI,ANALOG DEVICES INC,$0.00,0.00%,$0.00,$47.00,$0.00,$0.00
+AMZN,Amazon.com Inc,$0.00,0.00%,$0.00,$391.60,$0.00,$0.00
+ANF,ABERCROMBIE & FITCH A,$0.00,0.00%,$0.00,($27.00),$0.00,$0.00
+CMG,CHIPOTLE MEXICAN GRI,$0.00,0.00%,$0.00,($225.00),$0.00,$0.00
+GILD,GILEAD SCIENCES INC,$0.00,0.00%,$0.00,($3.00),$0.00,$0.00
+GOOGL,ALPHABET INC A,$0.00,0.00%,$60.00,$60.00,$0.00,$0.00
+HIMS,HIMS & HERS HEALTH I A,$0.00,0.00%,$0.00,$11.00,$0.00,$0.00
+KMB,Kimberly Clark Corp,$0.00,0.00%,$0.00,$5.30,$0.00,$0.00
+LRCX,LAM RESH CORP,$0.00,0.00%,$0.00,$9.50,$0.00,$0.00
+NLY,ANNALY CAP MGMT INC REIT,$0.00,0.00%,$1.00,$1.00,$0.00,$0.00
+NVDA,NVIDIA CORP,$0.00,0.00%,$0.00,$75.00,$0.00,$0.00
+PYPL,PAYPAL HLDGS INC,$0.00,0.00%,$0.00,$10.00,$0.00,$0.00
+SMCI,SUPER MICRO COMPUTER,$0.00,0.00%,$0.00,($30.00),$0.00,$0.00
+SPX,S & P 500 INDEX,$0.00,0.00%,$0.00,"($21,870.00)",$0.00,$0.00
+SPY,SPDR S&P 500 ETF,$0.00,0.00%,$0.00,"$2,595.00",$0.00,$0.00
+U,UNITY SOFTWARE INC,$0.00,0.00%,$0.00,$290.00,$0.00,$0.00
+WST,WEST PHARMACEUTICAL,$0.00,0.00%,$0.00,($23.52),$0.00,$0.00
+,OVERALL TOTALS,$0.00,0.00%,$61.00,"($18,683.12)",$0.00,$0.00
+
+Forex Account Summary
+Forex Cash,"$10,000.00"
+Forex Unrealized P/L,$0.00
+Forex Floating P/L,$0.00
+Forex Equity,"$10,000.00"
+Forex Margin,$0.00
+Forex Buying Power,"$10,000.00"
+Forex Risk Level,0.00%
+Forex Commissions YTD,$0.00
+
+Account Summary
+Net Liquidating Value,"$63,279.79"
+Stock Buying Power,"$126,559.58"
+Option Buying Power,"$63,279.79"
+Equity Commissions & Fees YTD,$261.86
+Futures Commissions & Fees YTD,$0.00
+Total Commissions & Fees YTD,$261.86
